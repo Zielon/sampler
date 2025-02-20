@@ -4,5 +4,5 @@ from .tetra import Tetra
 from .barys import compute_bary
 from .renderer import Renderer
 from .utils import *
-from .smplmodel.lbs import *
-from .smplmodel.body_model import *
+from .lbs import *
+from .body_model import *
